@@ -1,0 +1,23 @@
+{
+  "name": "Lenny AI",
+  "short_name": "Lenny AI",
+  "description": "An intelligent learning assistant that generates informative flashcards and a follow-up quiz for any topic you want to master. Enter a subject and get started!",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f9fafb",
+  "theme_color": "#111827",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/android-chrome-512x512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
